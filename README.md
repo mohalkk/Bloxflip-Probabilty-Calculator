@@ -9,5 +9,5 @@ maybe adding bet multiplier soon
 Windows security false flags the program as some virus. This happens because im compiling the file with PyInstaller.
 
 # Discord
-Mohalk#3312
+Mohalk#3312\n
 discord.gg/predicting
