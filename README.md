@@ -1,6 +1,7 @@
-# Bloxflip-Mines-Probabilty-Calculator
-Simple calculator that calculates your probabilty to click amount of correct tiles with an amount of mines
+# Bloxflip-Probabilty-Calculator
+Simple calculator that calculates your probabilty for towers and mines
 
-![Screenshot (556)](https://user-images.githubusercontent.com/45693149/229243316-6b30f13f-247e-49ae-abd9-88bca28cf39a.png)
+![Screenshot (557)](https://user-images.githubusercontent.com/45693149/229256137-c5fdfccf-242d-46c3-a63a-2dd015870c98.png)
+![Screenshot (558)](https://user-images.githubusercontent.com/45693149/229256140-644810ff-0509-436c-8805-57cf5e352c0d.png)
 
-making one for towers soon
+maybe adding bet multiplier soon
