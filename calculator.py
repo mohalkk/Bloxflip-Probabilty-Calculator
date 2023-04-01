@@ -29,9 +29,9 @@ def calculate_towers():
     elif mode_selector.get() == "Hard":
         chance = 1/3
     
-    probability = chance ** clicked_rows
+    probability = chance ** clicked_rows * 100
     
-    answer_label.config(text=f"Probability: {probability*100:.2f}%")
+    answer_label.config(text=f"Probability: {probability:.2f}%")
     
 def switch_calculator():
     selected = calculator_selector.get()
