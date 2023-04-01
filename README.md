@@ -7,6 +7,7 @@ Simple calculator that calculates your probabilty for towers and mines
 maybe adding bet multiplier soon
 
 Windows security false flags the program as some virus because im compiling the file with PyInstaller.
+Build it yourself if you dont trust the exe
 
 # Discord
  - Mohalk#3312
