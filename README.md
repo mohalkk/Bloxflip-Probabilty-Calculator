@@ -6,6 +6,9 @@ Simple calculator that calculates your probabilty for towers and mines
 
 maybe adding bet multiplier soon
 
+# Requirements
+- Tkinter
+- 
 # Discord
  - Mohalk#3312
 
